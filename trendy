@@ -1,0 +1,21 @@
+[
+ 
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/grad.json/main/wallpapers/1.jpeg",
+      "name": "wall 1",
+      "collections": "wall"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/grad.json/main/wallpapers/2.jpeg",
+      "name": "wall 2",
+      "collections": "wall"
+    },
+        {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/grad.json/main/wallpapers/85.jpeg",
+      "name": "wall 85",
+      "collections": "wall"
+    }
+]
