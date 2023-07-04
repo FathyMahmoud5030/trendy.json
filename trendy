@@ -1,6 +1,12 @@
  [
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Today'S%20Wall/1.jpg",
+      "name": "Today'S Wall 1",
+      "collections": "Today'S Wall"
+    },
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/General/17.jpg",
       "name": "General 17",
       "collections": "General"
