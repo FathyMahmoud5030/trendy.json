@@ -1,6 +1,18 @@
  [
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Today'S%20Wall/6%20(Dots%20Version%20).jpg",
+      "name": " 6 dot version",
+      "collections": "Today'S Wall"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Today'S%20Wall/6.jpg",
+      "name": "Today'S Wall 6",
+      "collections": "Today'S Wall"
+    },
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Cars/33.jpg",
       "name": "Cars 33",
       "collections": "Cars"
