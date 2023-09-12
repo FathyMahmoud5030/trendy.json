@@ -1,6 +1,78 @@
  [
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/12.JPG",
+      "name": "iPhone 12",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/11.JPG",
+      "name": "iPhone 11",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/10.JPG",
+      "name": "iPhone 10",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/9.JPG",
+      "name": "iPhone 9",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/8.jpeg",
+      "name": "iPhone 8",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/7.jpeg",
+      "name": "iPhone 7",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/6.jpeg",
+      "name": "iPhone 6",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/5.png",
+      "name": "iPhone 5",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/4.png",
+      "name": "iPhone 4",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/3.png",
+      "name": "iPhone 3",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/2.png",
+      "name": "iPhone 2",
+      "collections": "iPhone"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/iphone/1.png",
+      "name": "iPhone 1",
+      "collections": "iPhone"
+    },   
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/14.jpg",
       "name": "Animals 86",
       "collections": "Animals"
