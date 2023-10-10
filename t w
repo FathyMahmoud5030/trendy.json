@@ -1,6 +1,126 @@
  [
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/27.jpeg",
+      "name": "Games 27",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/26.png",
+      "name": "Games 26",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/25.png",
+      "name": "Games 25",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Animals/93.jpeg",
+      "name": "Animals 93",
+      "collections": "Animals"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Animals/92.jpeg",
+      "name": "Animals 92",
+      "collections": "Animals"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Portrait/63.png",
+      "name": "portrait 63",
+      "collections": "portrait"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Scenery/63.jpeg",
+      "name": "scenery 63",
+      "collections": "scenery"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Scenery/62.jpeg",
+      "name": "scenery 62",
+      "collections": "scenery"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Scenery/61.jpeg",
+      "name": "scenery 61",
+      "collections": "scenery"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Scenery/60.jpeg",
+      "name": "scenery 60",
+      "collections": "scenery"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Depth/34.jpeg",
+      "name": "Depth 34",
+      "collections": "Depth"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Depth/33.jpeg",
+      "name": "Depth 33",
+      "collections": "Depth"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Depth/32.jpeg",
+      "name": "Depth 32",
+      "collections": "Depth"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Depth/31.jpeg",
+      "name": "Depth 31",
+      "collections": "Depth"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Depth/30.jpeg",
+      "name": "Depth 30",
+      "collections": "Depth"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/24.png",
+      "name": "Games 24",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/23.png",
+      "name": "Games 23",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/22.png",
+      "name": "Games 22",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/21.png",
+      "name": "Games 21",
+      "collections": "Games"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/20.png",
+      "name": "Games 20",
+      "collections": "Games"
+    },   
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Cars/45.jpeg",
       "name": "Cars 45",
       "collections": "Cars"
@@ -27,25 +147,25 @@
       "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Animal%20Characters/46.jpeg",
       "name": "Animal Chaeacters 46",
-      "collections": "Animal Chaeacters"
+      "collections": "Animal Characters"
     },
     {
       "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Animal%20Characters/45.jpeg",
       "name": "Animal Chaeacters 45",
-      "collections": "Animal Chaeacters"
+      "collections": "Animal Characters"
     },
     {
       "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Animal%20Characters/44.jpeg",
       "name": "Animal Chaeacters 44",
-      "collections": "Animal Chaeacters"
+      "collections": "Animal Characters"
     },
     {
       "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Animal%20Characters/43.jpeg",
       "name": "Animal Chaeacters 43",
-      "collections": "Animal Chaeacters"
+      "collections": "Animal Characters"
     },
     {
       "author": "Android Tools 4u",
