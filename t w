@@ -1,6 +1,12 @@
  [
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/Portrait/98.jpg",
+      "name": "portrait 98",
+      "collections": "portrait"
+    },
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/games/27.jpeg",
       "name": "Games 27",
       "collections": "Games"
