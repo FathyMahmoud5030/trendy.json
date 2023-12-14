@@ -1,6 +1,66 @@
  [
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/10.jpg",
+      "name": "seasons 10",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/9.jpg",
+      "name": "seasons 9",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/8.jpg",
+      "name": "seasons 8",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/7.jpg",
+      "name": "seasons 7",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/6.jpg",
+      "name": "seasons 6",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/5.jpg",
+      "name": "seasons 5",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/4.jpg",
+      "name": "seasons 4",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/3.jpg",
+      "name": "seasons 3",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/2.jpg",
+      "name": "seasons 2",
+      "collections": "seasons"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/season/1.jpg",
+      "name": "seasons 1",
+      "collections": "seasons"
+    },   
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/trendy.json/main/MiniMal/61.jpg",
       "name": "MiniMal 61",
       "collections": "MiniMal"
